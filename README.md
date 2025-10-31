@@ -106,4 +106,6 @@ The movie database is in movies.json. You can update it manually or fetch new mo
 
 💻 Author
 
-Abdelmalek Zouaoui – AI & Full-Stack Developer
+Abdelmalek Zouaoui – 
+the wpf app repo :
+https://github.com/Abdelmalek-Zouaoui/WPF-app-of-movie-recomendation
